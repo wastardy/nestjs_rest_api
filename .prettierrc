@@ -1,6 +1,8 @@
 {
   "singleQuote": true,
   "trailingComma": "all",
+  "printWidth": 60,
+  "endOfLine": "auto",
   "prettier/prettier": [
     "error",
     {
